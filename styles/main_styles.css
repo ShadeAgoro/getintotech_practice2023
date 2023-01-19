@@ -3,3 +3,14 @@ padding: 20px;
 background-color:bisque;
 color:maroon;
 }
+
+
+p {
+    color:black;
+    font-size: 16 px;
+}
+
+
+#copy {
+    color:darkgray;
+}
